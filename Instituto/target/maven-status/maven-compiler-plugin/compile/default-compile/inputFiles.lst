@@ -1,0 +1,16 @@
+C:\Users\GUSATAVO\Desktop\JAVA\Instituto\src\main\java\ar\com\instituto\java\repositories\interfaces\I_AlumnosRepository.java
+C:\Users\GUSATAVO\Desktop\JAVA\Instituto\src\main\java\ar\com\instituto\java\repositories\jdbc\AlumnosRepository.java
+C:\Users\GUSATAVO\Desktop\JAVA\Instituto\src\main\java\ar\com\instituto\java\repositories\interfaces\I_ProfesoresRepository.java
+C:\Users\GUSATAVO\Desktop\JAVA\Instituto\src\main\java\ar\com\instituto\java\model\Operaciones.java
+C:\Users\GUSATAVO\Desktop\JAVA\Instituto\src\main\java\ar\com\instituto\java\entities\Materias.java
+C:\Users\GUSATAVO\Desktop\JAVA\Instituto\src\main\java\ar\com\instituto\java\repositories\interfaces\I_MateriasRepository.java
+C:\Users\GUSATAVO\Desktop\JAVA\Instituto\src\main\java\ar\com\instituto\java\repositories\jdbc\MateriasRepository.java
+C:\Users\GUSATAVO\Desktop\JAVA\Instituto\src\main\java\ar\com\instituto\java\repositories\jdbc\ProfesoresRepository.java
+C:\Users\GUSATAVO\Desktop\JAVA\Instituto\src\main\java\ar\com\instituto\java\connectors\Connector.java
+C:\Users\GUSATAVO\Desktop\JAVA\Instituto\src\main\java\ar\com\instituto\java\test\TestConnector.java
+C:\Users\GUSATAVO\Desktop\JAVA\Instituto\src\main\java\ar\com\instituto\java\test\TestRepository.java
+C:\Users\GUSATAVO\Desktop\JAVA\Instituto\src\main\java\ar\com\instituto\java\utils\html\HtmlTable.java
+C:\Users\GUSATAVO\Desktop\JAVA\Instituto\src\main\java\ar\com\instituto\java\entities\Alumnos.java
+C:\Users\GUSATAVO\Desktop\JAVA\Instituto\src\main\java\ar\com\instituto\java\enums\Dia.java
+C:\Users\GUSATAVO\Desktop\JAVA\Instituto\src\main\java\ar\com\instituto\java\enums\Turno.java
+C:\Users\GUSATAVO\Desktop\JAVA\Instituto\src\main\java\ar\com\instituto\java\entities\Profesores.java

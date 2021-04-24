@@ -1,0 +1,16 @@
+ar\com\instituto\java\entities\Profesores.class
+ar\com\instituto\java\repositories\interfaces\I_AlumnosRepository.class
+ar\com\instituto\java\test\TestRepository.class
+ar\com\instituto\java\enums\Dia.class
+ar\com\instituto\java\entities\Materias.class
+ar\com\instituto\java\utils\html\HtmlTable.class
+ar\com\instituto\java\connectors\Connector.class
+ar\com\instituto\java\entities\Alumnos.class
+ar\com\instituto\java\test\TestConnector.class
+ar\com\instituto\java\enums\Turno.class
+ar\com\instituto\java\repositories\jdbc\MateriasRepository.class
+ar\com\instituto\java\model\Operaciones.class
+ar\com\instituto\java\repositories\interfaces\I_MateriasRepository.class
+ar\com\instituto\java\repositories\interfaces\I_ProfesoresRepository.class
+ar\com\instituto\java\repositories\jdbc\ProfesoresRepository.class
+ar\com\instituto\java\repositories\jdbc\AlumnosRepository.class
