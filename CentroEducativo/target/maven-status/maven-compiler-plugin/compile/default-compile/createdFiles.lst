@@ -1,0 +1,14 @@
+ar\com\centroeducativo\modelo\Profesor.class
+ar\com\centroeducativo\modelo\InscripcionDAO.class
+ar\com\centroeducativo\modelo\Materias.class
+ar\com\centroeducativo\resources\JavaEE8Resource.class
+ar\com\centroeducativo\modelo\MateriasDAO.class
+ar\com\centroeducativo\jax\JAXRSConfiguration.class
+ar\com\centroeducativo\modelo\Inscripcion.class
+ar\com\centroeducativo\config\Conexion.class
+ar\com\centroeducativo\config\GenerarSerie.class
+ar\com\centroeducativo\modelo\AlumnoDAO.class
+ar\com\centroeducativo\modelo\Alumno.class
+ar\com\centroeducativo\modelo\ProfesorDAO.class
+ar\com\centroeducativo\controlador\Controlador.class
+ar\com\centroeducativo\controlador\Validar.class
